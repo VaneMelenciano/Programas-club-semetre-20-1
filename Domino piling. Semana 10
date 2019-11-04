@@ -8,6 +8,6 @@ int main()
     cin >> n >> m;
     int total=n*m;
     int cuadros=total/2;
-    cout << cuadros <<" "<< cuadros;
+    cout << cuadros;
     return 0;
 }
